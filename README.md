@@ -62,7 +62,7 @@ I'm a **Computer Science student** and **Full-Stack Developer** who sees every "
 
 ##  Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hajar-khouz/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hajar-khouz/])
 
 
 ---
