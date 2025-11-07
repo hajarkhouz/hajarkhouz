@@ -41,11 +41,11 @@ I'm a **Computer Science student** and **Full-Stack Developer** who sees every "
 
 <div align="center">
   
-![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&icon_color=ff69b4&text_color=ffffff)
+![Hajar's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajarkhouz&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&icon_color=ff69b4&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajarkhouz&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff1493&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hajarkhouz&theme=radical&hide_border=true&background=0d1117&ring=ff1493&fire=ff69b4&currStreakLabel=ff69b4)
 
 </div>
 
@@ -71,6 +71,6 @@ I'm a **Computer Science student** and **Full-Stack Developer** who sees every "
   
 ### ✨ "Turning impossible into deployed, one commit at a time" ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=hajarkhouz&color=ff69b4&style=flat-square&label=Profile+Views)
 
 </div>
