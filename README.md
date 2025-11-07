@@ -42,7 +42,7 @@ I'm a **Computer Science student** and **Full-Stack Developer** who sees every "
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=graywhite&hide_border=true&title_color=ff1493&text_color=2d2d2d&bg_color=fff5f9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajarkhouz&layout=compact&theme=graywhite&hide_border=true&title_color=ff1493&text_color=2d2d2d&bg_color=fff5f9)
 </div>
 ## 🌟 Currently Working On
 
